@@ -1,0 +1,22 @@
+Source: RateMyProfessors
+Professor: Richard Weir
+School: College of Staten Island
+URL: https://www.ratemyprofessors.com/professor/2197959
+
+Reviews:
+
+Review 1:
+This will definitely be the funnest class you will take, you talk about games, plays games, and make them. Unfortunately he honestly didn't teach Unity enough, he just goes over how to do basic 2D platform movement, shooting bullets, checkpoints, and dying/respawning. The rest of the class was just game design theory and playing old games.
+
+Review 2:
+I previously took him for CSC 227. My May 29, 2025 review still applies for CSC 401, except that both the midterm and final are now five short response questions on the topics learned, each. This was his first semester teaching this course because the course just got introduced. Recommended for video game and/or VR/AR experience enjoyers.
+
+Review 3:
+Midterm asked students to recreate a part of a Super Mario Bros. level, and the final exam was written response questions. Both easy.
+
+Review 4:
+One of the best CSI professors for Computer Science. Lectures are very fun and the material was amazing! Exams, homework, labs, and project were all easy. Suggestion: please do not offer the course at night. I have no time to do homework or eat dinner if the course starts and ends late. Such a shame CSC427 is not offered next semester.
+
+Review 5:
+Professor Weir is one of the best CS professors I have taken. He is very wise and knows what he is talking about. This is a class where you need to listen because he explains things that will save you a lot of time when it comes to the labs. He is more than willing to help when you are stuck and does not mind staying to help someone understand.
+

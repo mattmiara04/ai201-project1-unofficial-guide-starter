@@ -1,0 +1,21 @@
+Source: RateMyProfessors
+Professor: Sarah Zelikovitz
+School: College of Staten Island
+URL: https://www.ratemyprofessors.com/professor/857604
+
+Reviews:
+
+Review 1:
+Very nice professor, one of the best. No exams. The midterm project involved creating an intro CS level assignment and the final project was writing a written assignment on any Computer Science topic. Both required presentations. She's strict with grading, but fair course. She encourages "robot" use (RMP keeps blocking the word).
+
+Review 2:
+Professor Z is a great professor. She knows the topics well and makes the material simple to understand. Her lectures are a bit heavy at times but shes very understanding and will definitely help you become better in the c++ language.
+
+Review 3:
+Took her last semester, and she was definitely the best professor a beginner comp-sci student could have. She was always fair with her grading and gave opportunities to make up work for a better grade. Lectures were sometimes heavy, but she explained things well and was very open to questions and helping students. Highly recommend.
+
+Review 4:
+Professor is terrible, if you truely want to learn comp sci take it at a different school or learn it by yourself shes genuinely terrible
+
+Review 5:
+Professor Zelikovitz is great! She explains things really clearly and is always willing to help if you have any questions. She gives a sample quiz before every quiz and gives plenty of time to complete assignments. The class is interesting and simple if you just pay attention and keep up with assignments.
