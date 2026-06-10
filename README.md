@@ -9,11 +9,9 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+My project covers unofficial student knowledge about Computer Science professors and courses at the College of Staten Island. The system is meant to answer questions about what students say regarding teaching style, difficulty, grading, exams, workload, attendance, and advice for doing well.
 
+This knowledge is valuable because official course descriptions only explain what a class is supposed to cover. They do not usually explain what the professor is like, how hard the exams feel, whether grading is fair, or what students wish they knew before taking the class. That kind of information is usually scattered across student reviews and word of mouth, so my system collects it into a searchable RAG guide.
 ---
 
 ## Document Sources
